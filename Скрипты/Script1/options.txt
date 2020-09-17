@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Администратор\Music\Desktop\NT\Скрипты\Script1
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\администратор\music\desktop\nt\скрипты\script1\\logfile.log
+c:\users\администратор\music\desktop\nt\скрипты\script1\\combined_Script1.c
+c:\users\администратор\music\desktop\nt\скрипты\script1\\pre_cci.c

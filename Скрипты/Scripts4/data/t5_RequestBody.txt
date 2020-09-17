@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Frankfurt&departDate=09%2F21%2F2020&arrive=Los+Angeles&returnDate=09%"
+"2F29%2F2020&numPassengers=1&roundtrip=on&seatPref=Aisle&seatType=First&findFlights.x=22&findFl"
+"ights.y=6&.cgifields=roundtrip&.cgifields=seatType&.cgifields=seatPref"

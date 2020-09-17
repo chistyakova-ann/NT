@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>Scripts4</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="Scripts4.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="Scripts4.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_Scripts4.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="135261922440.idx" Filter="1" />
+    <FileEntry Name="136435425440.idx" Filter="1" />
+    <FileEntry Name="136675956440.idx" Filter="1" />
+    <FileEntry Name="15642158440.idx" Filter="1" />
+    <FileEntry Name="163395854440.idx" Filter="1" />
+    <FileEntry Name="18701616440.idx" Filter="1" />
+    <FileEntry Name="188655029440.idx" Filter="1" />
+    <FileEntry Name="244001144440.idx" Filter="1" />
+    <FileEntry Name="98582418440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="depart.dat" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="password.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="Scripts4.c.pickle" Filter="1" />
+    <FileEntry Name="Scripts4.ci" Filter="1" />
+    <FileEntry Name="Scripts4.prm.bak" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="seatPref.dat" Filter="1" />
+    <FileEntry Name="seatType.dat" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

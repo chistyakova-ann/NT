@@ -1,0 +1,68 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1600267117710
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1600267119104
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t4.inf",
+                "time": 1600267120343
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t5.inf",
+                "time": 1600267121292
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Gotosite",
+                "rawStartTime": 1600267114430,
+                "rawEndTime": 1600267117720,
+                "thinkTime": 0.0,
+                "wastedTime": 0.687995433807373
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1600267117723,
+                "rawEndTime": 1600267119105,
+                "thinkTime": 0.0,
+                "wastedTime": 0.17600154876708985
+            },
+            {
+                "transactionName": "click_itinerary",
+                "rawStartTime": 1600267119109,
+                "rawEndTime": 1600267120344,
+                "thinkTime": 0.0,
+                "wastedTime": 0.185774564743042
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1600267120347,
+                "rawEndTime": 1600267121293,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14216947555541993
+            },
+            {
+                "transactionName": "UC_5_from2_ticket",
+                "rawStartTime": 1600267114428,
+                "rawEndTime": 1600267121295,
+                "thinkTime": 0.0,
+                "wastedTime": 1.1919410228729249
+            }
+        ]
+    }
+]

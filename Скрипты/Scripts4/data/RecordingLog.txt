@@ -1,0 +1,397 @@
+[API Trapper      (10ec: b08)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (17e0:11c4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      ( 89c: f48)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( 89c: ff4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 89c: ff4)] Load Network Traffic Analyzers:
+[Network Analyzer ( 89c: ff4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 89c: ff4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 89c: ff4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 89c: ff4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 89c: ff4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 89c: ff4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 89c: ff4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 89c:10a4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.164.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: d4c)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      ( b34: d00)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.162.94:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 15.236.175.233:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: e4c)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 173.194.222.84:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 89c:16cc)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:1288)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (1100: c1c)] Recording in 32-bit mode: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 89c: d4c)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c: e4c)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c:1288)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c:16cc)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Web Request      ( 89c:10a4)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=85"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  1) Client -> Server @ : 448 bytes (SSL)(Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /safebrowsing/csd/client_model_v5_variation_0.pb"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Client -> Server @ : 367 bytes (SSL)(Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s15602121241009?AQB=1&ndh=1&pf=1&t=12%2F8%2F2020%2019%3A9%3A55%206%20-180&fid=4B324E57F4F1B68B-08ED69D41B75A0D2&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.2&v2=sideload&v3=prod&v4=not_set&s=1366x768&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Client -> Server @ : 1647 bytes (SSL)(Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 527 bytes (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  1) Server -> Client : 379 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Server -> Client : 747 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 984 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s14229484180196?AQB=1&ndh=1&pf=1&t=12%2F8%2F2020%2019%3A9%3A55%206%20-180&fid=4B324E57F4F1B68B-08ED69D41B75A0D2&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.2&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Client -> Server @ : 1607 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/header.html"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 1007 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  6) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Server -> Client : 1148 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Server -> Client : 747 bytes (SSL) (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 466 bytes (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s17519428097933?AQB=1&ndh=1&pf=1&t=12%2F8%2F2020%2019%3A9%3A55%206%20-180&fid=4B324E57F4F1B68B-08ED69D41B75A0D2&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.2&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Client -> Server @ : 1596 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  6) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  6) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Server -> Client : 747 bytes (SSL) (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 467 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 4486 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 616 bytes (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/home.html"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  6) Client -> Server @ : 612 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  6) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 498 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /favicon.ico"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Client -> Server @ : 467 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( 89c: 770)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c: 770)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 89c:10a4)] "GET /v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIfCU35IjnBRbgwEgkN541ADhIAGgASCQ3OQUx6EgAaAA==?alt=proto"   
+[Network Analyzer ( 89c:10a4)]   (Sid:  8) Client -> Server @ : 538 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid:  8) Server -> Client : 665 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.162.188:5228   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 89c:104c)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:104c)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c:10a4)]   (Sid:  9) Client -> Server @ : 155 bytes (SSL)
+[Network Analyzer ( 89c:10a4)]   (Sid:  9) Server -> Client : 1 bytes (SSL)
+[Network Analyzer ( 89c:10a4)]   (Sid:  9) Server -> Client : 66 bytes (SSL)
+[Network Analyzer ( 89c:10a4)]   (Sid:  9) Server -> Client : 12 bytes (SSL)
+[Network Analyzer ( 89c:10a4)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid:  1) Connection Terminated (by Client)
+[API Trapper      (16d8:16c8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( 89c:10a4)]   (Sid:  8) Connection Terminated (by Client)
+[API Trapper      (14ac: d70)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 173.194.220.94:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 89c:15e4)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:15e4)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c:10a4)]   (Sid: 10) Client -> Server @ : 1137 bytes (SSL)(Service=HTTP)
+[Web Request      ( 89c:10a4)] "POST /service/update2/json?cup2key=10:2620851334&cup2hreq=68e059439b7e190175601507250b84a6d324379dd550c0775273ee6858898036"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 10) Client -> Server @ : 5878 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 10) Server -> Client : 1322 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 10) Server -> Client : 948 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 10) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[User action                 ] StartTransactionEvent UC_1_fullticket [User action                 ] StartTransactionEvent login [Network Analyzer ( 89c:10a4)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 74.125.205.95:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 89c:1420)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:1420)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 89c:10a4)] "GET /v4/threatListUpdates:fetch?$req=Ch0KDGdvb2dsZWNocm9tZRINODUuMC40MTgzLjEwMhopCAUQARobCg0IBRAGGAEiAzAwMTABEPChCRoCGAiVC8znIgQgASACKAEaKQgBEAEaGwoNCAEQBhgBIgMwMDEwARCE7gcaAhgIdIFbZiIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQ_vcHGgIYCIadSu8iBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABEPeNCBoCGAgYDZGaIgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYCLHnkC0iBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEEN4bGgIYCPVjW2QiBCABIAIoBBonCAkQARoZCg0ICRAGGAEiAzAwMTAGEAMaAhgIeaM2dCIEIAEgAigGGigIDxABGhoKDQgPEAYYASIDMDAxMAEQzUAaAhgIVBGVeCIEIAEgAigBGicIChAIGhkKDQgKEAgYASIDMDAxMAEQBhoCGAjtJmDlIgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAdGgIYCGKUnNsiBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABEN8JGgIYCD02s_YiBCABIAIoARooCA0QARoaCg0IDRAGGAEiAzAwMTABEJh7GgIYCJL23tsiBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABELagBBoCGAgEL8p6IgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARC8BRoCGAie-6MPIgQgASACKAEiAggB&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Client -> Server @ : 1276 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Server -> Client : 1316 bytes (SSL) (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /v4/fullHashes:find?$req=Ch0KDGdvb2dsZWNocm9tZRINODUuMC40MTgzLjEwMhIbCg0IBRAGGAEiAzAwMTABEPShCRoCGAgeNl-jEhsKDQgBEAYYASIDMDAxMAEQhO4HGgIYCHSBW2YSGwoNCAMQBhgBIgMwMDEwARCB-AcaAhgIvdLTSBIbCg0IBxAGGAEiAzAwMTABEPuNCBoCGAjt7wXaEhkKDQgBEAYYASIDMDAxMAMQFBoCGAix55AtEhoKDQgBEAgYASIDMDAxMAQQ3hsaAhgI9WNbZBIZCg0ICRAGGAEiAzAwMTAGEAMaAhgIeaM2dBIaCg0IDxAGGAEiAzAwMTABEM5AGgIYCHOHvg8SGQoNCAoQCBgBIgMwMDEwARAGGgIYCO0mYOUSGQoNCAkQBhgBIgMwMDEwARAdGgIYCGKUnNsSGgoNCAgQBhgBIgMwMDEwARDfCRoCGAg9NrP2EhoKDQgNEAYYASIDMDAxMAEQmHsaAhgIkvbe2xIbCg0IDhAGGAEiAzAwMTABELmgBBoCGAj3Bd2UEhoKDQgQEAYYASIDMDAxMAEQvAUaAhgInvujDxpsCAEIAwgFCAYIBwgICAkICggNCA4IDwgQEAEQCBoiCiBmbGhuZGpmYmlhZ2RwbWxmZWNvcGdsbGdsa2pmY2diZhoiCiBvY2lmY2tsa2liZGVoZWtmbm1mbGVtcGZnamhiZWRjaCABIAMgBCAG&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Client -> Server @ : 1148 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Server -> Client : 859 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.161.136:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.161.136:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( 89c:1670)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:1670)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 89c:10a4)] "POST /safebrowsing/clientreport/crx-list-info?client=googlechrome&appver=85.0.4183.102&pver=4.0&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 12) Client -> Server @ : 724 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:12cc)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:10a4)]   (Sid: 12) Server -> Client : 461 bytes (SSL) (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c:12cc)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 89c:10a4)] "POST /safebrowsing/clientreport/crx-list-info?client=googlechrome&appver=85.0.4183.102&pver=4.0&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 13) Client -> Server @ : 724 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 13) Server -> Client : 461 bytes (SSL) (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Web Request      ( 89c:10a4)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Client -> Server @ : 874 bytes (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Server -> Client : 850 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Client -> Server @ : 724 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c:10a4)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid: 11) Connection Terminated (by Client)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Client -> Server @ : 719 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c:10a4)]   (Sid: 14) Connection Terminated (by Server)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 16) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 16) Server -> Client : 1024 bytes  (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 17) Client -> Server @ : 621 bytes (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 18) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 17) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 18) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 19) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 19) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 16) Connection Terminated (by Server)
+[User action                 ] Pausing...  [User action                 ] EndTransactionEvent login [User action                 ] StartTransactionEvent fullticket [Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Client -> Server @ : 758 bytes (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 22) Connection Terminated (by Client)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Client -> Server @ : 741 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Client -> Server @ : 742 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c:10a4)]   (Sid: 21) Connection Terminated (by Server)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 23) Client -> Server @ : 625 bytes (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 23) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 24) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 24) Server -> Client : 986 bytes  (Service=HTTP)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid: 24) Connection Terminated (by Client)
+[Web Request      ( 89c:10a4)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 25) Client -> Server @ : 627 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 25) Server -> Client : 1056 bytes  (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer ( 89c:16c0)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 89c:16c0)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 89c:10a4)]   (Sid: 25) Connection Terminated (by Server)
+[Network Analyzer ( 89c:10a4)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer ( 89c:10a4)]   (Sid: 26) Connection Terminated (by Client)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Web Request      ( 89c:10a4)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 28) Client -> Server @ : 1141 bytes (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 28) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 28) Server -> Client : 962 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 29) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent fullticket [Network Analyzer ( 89c:10a4)]   (Sid: 28) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Signoff [Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 89c: ff4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer ( 89c: ff4)] Address lookup for Administrator = 192.168.1.73
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Client -> Server @ : 759 bytes (Service=HTTP)
+[Network Analyzer ( 89c: ff4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Client -> Server @ : 613 bytes (Service=HTTP)
+[Web Request      ( 89c:10a4)] "GET /WebTours/home.html"   
+[Network Analyzer ( 89c:10a4)]   (Sid: 31) Client -> Server @ : 709 bytes (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 31) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent Signoff [Network Analyzer ( 89c:10a4)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer ( 89c:10a4)]   (Sid: 30) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent UC_1_fullticket 

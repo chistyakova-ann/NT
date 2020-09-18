@@ -1,6 +1,6 @@
 Action()
 {
-	lr_start_transaction("UC_4_Find_Flight");
+	lr_start_transaction("UC_4_Find_and_Choose_Flight");
 	lr_start_transaction("Gotosite");
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
@@ -137,7 +137,7 @@ Action()
 	"TagName=input",
 	"Extract=value",
 	"Name=outboundFlight",
-	"Ordinal=ALL",
+//	"Ordinal=ALL",
 	"Type=radio",
 	SEARCH_FILTERS,
 	"IgnoreRedirections=No",
@@ -169,7 +169,7 @@ Action()
 		LAST);
 
 	lr_end_transaction("fill_find_flights",LR_AUTO);
-	lr_save_string(lr_eval_string("outboundFlight_{random_id}"),"outboundFlight_id");
+//	lr_save_string(lr_eval_string("outboundFlight_{random_id}"),"outboundFlight_id");
 	lr_start_transaction("choose_flight");
 	
 	web_reg_find("Fail=NotFound",
@@ -185,7 +185,7 @@ Action()
 		"Snapshot=t5.inf",
 		"Mode=HTML",
 		ITEMDATA,
-		"Name=outboundFlight", "Value={outboundFlight_id}", ENDITEM,
+		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM,
 		"Name=numPassengers", "Value={numPass}", ENDITEM,
 		"Name=advanceDiscount", "Value=0", ENDITEM,
 		"Name=seatType", "Value={seatType}", ENDITEM,
@@ -219,7 +219,7 @@ Action()
 
 	lr_end_transaction("logout",LR_AUTO);
 
-	lr_end_transaction("UC_4_Find_Flight",LR_AUTO);
+	lr_end_transaction("UC_4_Find_and_Choose_Flight",LR_AUTO);
 
 	return 0;
 }

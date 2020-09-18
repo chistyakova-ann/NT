@@ -1,4 +1,4 @@
-"firstName=jojo1&lastName=jojo1&address1=Moscow&address2=Russia&pass1=jojo1+jojo1&pass2=Chistya"
-"kova+Anna1&expDate=09%2F21&creditCard=123456789112&oldCCOption=&numPassengers=2&seatType=Busin"
-"ess&seatPref=Aisle&outboundFlight=090%3B610%3B09%2F17%2F2020&advanceDiscount=0&returnFlight=&J"
-"SFormSubmit=off&buyFlights.x=63&buyFlights.y=10&.cgifields=saveCC"
+"firstName=jojo1&lastName=jojo1&address1=Moscow&address2=Russia&pass1=jojo1+jojo1&expDate=09%2F"
+"21&creditCard=123456789112&oldCCOption=&numPassengers=1&seatType=Business&seatPref=Window&outb"
+"oundFlight=090%3B610%3B09%2F18%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit=off&buyFlig"
+"hts.x=63&buyFlights.y=10&.cgifields=saveCC"

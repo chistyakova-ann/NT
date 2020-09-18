@@ -2739,7 +2739,7 @@ Action()
 	"TagName=input",
 	"Extract=value",
 	"Name=outboundFlight",
-	"Ordinal=ALL",
+ 
 	"Type=radio",
 	"SEARCH_FILTERS",
 	"IgnoreRedirections=No",
@@ -2771,7 +2771,7 @@ Action()
 		"LAST");
 
 	lr_end_transaction("fill_find_flights",2);
-	lr_save_string(lr_eval_string("outboundFlight_{random_id}"),"outboundFlight_id");
+ 
 	lr_start_transaction("choose_flight");
 	
 	web_reg_find("Fail=NotFound",
@@ -2787,7 +2787,7 @@ Action()
 		"Snapshot=t5.inf",
 		"Mode=HTML",
 		"ITEMDATA",
-		"Name=outboundFlight", "Value={outboundFlight_id}", "ENDITEM",
+		"Name=outboundFlight", "Value={outboundFlight}", "ENDITEM",
 		"Name=numPassengers", "Value={numPass}", "ENDITEM",
 		"Name=advanceDiscount", "Value=0", "ENDITEM",
 		"Name=seatType", "Value={seatType}", "ENDITEM",

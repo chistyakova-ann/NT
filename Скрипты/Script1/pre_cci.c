@@ -2964,7 +2964,7 @@ Action()
 		"Text/DIG=User wants the intineraries.",
 		"LAST");
 	web_reg_find("Fail=NotFound",
-		"Text/DIG={pass1}\n 's Flight Transaction Summary",
+		"Text/DIG={firstName} {lastName}\n 's Flight Transaction Summary",
 		"LAST");
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 

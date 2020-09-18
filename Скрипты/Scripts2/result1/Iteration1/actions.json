@@ -6,87 +6,75 @@
                 "stepId": "STEP1",
                 "stepName": "Url: WebTours",
                 "infFile": "t2.inf",
-                "time": 1600370589816
+                "time": 1600423095080
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1600370591089
+                "time": 1600423095681
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Url: Itinerary Button",
                 "infFile": "t4.inf",
-                "time": 1600370592287
+                "time": 1600423096184
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Submit Form: web_submit_form",
                 "infFile": "t5.inf",
-                "time": 1600370593250
+                "time": 1600423096637
             },
             {
                 "stepId": "STEP5",
-                "stepName": "Submit Form: web_submit_form",
-                "infFile": "t6.inf",
-                "time": 1600370594137
-            },
-            {
-                "stepId": "STEP6",
-                "stepName": "Submit Form: web_submit_form",
-                "infFile": "t7.inf",
-                "time": 1600370594966
-            },
-            {
-                "stepId": "STEP7",
                 "stepName": "Url: SignOff Button",
-                "infFile": "t8.inf",
-                "time": 1600370595785
+                "infFile": "t6.inf",
+                "time": 1600423096987
             }
         ],
         "transactions": [
             {
                 "transactionName": "Gotosite",
-                "rawStartTime": 1600370585808,
-                "rawEndTime": 1600370589818,
+                "rawStartTime": 1600423093064,
+                "rawEndTime": 1600423095082,
                 "thinkTime": 0.0,
-                "wastedTime": 0.3464701175689697
+                "wastedTime": 0.320232629776001
             },
             {
                 "transactionName": "login",
-                "rawStartTime": 1600370589821,
-                "rawEndTime": 1600370591092,
+                "rawStartTime": 1600423095084,
+                "rawEndTime": 1600423095683,
                 "thinkTime": 0.0,
-                "wastedTime": 0.1853642463684082
+                "wastedTime": 0.16157984733581544
             },
             {
                 "transactionName": "click_itenerary",
-                "rawStartTime": 1600370591095,
-                "rawEndTime": 1600370592289,
+                "rawStartTime": 1600423095685,
+                "rawEndTime": 1600423096185,
                 "thinkTime": 0.0,
-                "wastedTime": 0.06320619583129883
+                "wastedTime": 0.044207096099853519
             },
             {
                 "transactionName": "delete_ticket",
-                "rawStartTime": 1600370592291,
-                "rawEndTime": 1600370594970,
+                "rawStartTime": 1600423096187,
+                "rawEndTime": 1600423096642,
                 "thinkTime": 0.0,
-                "wastedTime": 0.12538528442382813
+                "wastedTime": 0.036719322204589847
             },
             {
                 "transactionName": "logout",
-                "rawStartTime": 1600370594972,
-                "rawEndTime": 1600370595787,
+                "rawStartTime": 1600423096644,
+                "rawEndTime": 1600423096988,
                 "thinkTime": 0.0,
-                "wastedTime": 0.07928776741027832
+                "wastedTime": 0.03156328201293945
             },
             {
                 "transactionName": "UC_2_delete_ticket",
-                "rawStartTime": 1600370585807,
-                "rawEndTime": 1600370595789,
+                "rawStartTime": 1600423093063,
+                "rawEndTime": 1600423096990,
                 "thinkTime": 0.0,
-                "wastedTime": 0.7997136116027832
+                "wastedTime": 0.5943021774291992
             }
         ]
     }

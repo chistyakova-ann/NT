@@ -2721,7 +2721,7 @@ Action()
 	                   "LAST");
 	
 	web_reg_find("Fail=NotFound",
-		"Text/DIG={login} {login}\n 's Flight Transaction Summary",
+		"Text/DIG={firstName} {lastName}\n 's Flight Transaction Summary",
 		"LAST");	
 	
 	web_url("Itinerary Button", 
@@ -2743,18 +2743,21 @@ Action()
 
 	lr_think_time(32);
 	
+ 
+# 154 "Action.c"
+	
+	if(atoi(lr_eval_string("{num}"))==1){
+		
 	web_reg_find("Fail=NotFound",
 		"Text/DIG=Flights List",
 		"LAST");
-
-	web_reg_save_param("flight_id2",
+    web_reg_save_param("flight_id2",
 	    "LB=name=\"flightID\" value=\"",
 	    "RB=\"",
 	    "Ord=ALL",
 	    "LAST");
-	
-	if(atoi(lr_eval_string("{num}"))==1){
-	        web_submit_form("web_submit_form",
+
+	 web_submit_form("web_submit_form",
 	     "ITEMDATA",
 	    "Name=1","Value=on","ENDITEM",
 	    "Name=removeFlights.x", "Value=66", "ENDITEM", 
@@ -2773,6 +2776,15 @@ Action()
 	 
 	}else if(atoi(lr_eval_string("{num}"))==2){ 
 		
+	web_reg_find("Fail=NotFound",
+		"Text/DIG=Flights List",
+		"LAST");
+web_reg_save_param("flight_id2",
+	    "LB=name=\"flightID\" value=\"",
+	    "RB=\"",
+	    "Ord=ALL",
+	    "LAST");
+		
 		web_submit_form("web_submit_form",
 	     "ITEMDATA",
 	    "Name=1","Value=on","ENDITEM",
@@ -2791,14 +2803,26 @@ Action()
 		"EXTRARES",
 		"URL=http://localhost:1080/cgi-bin/itinerary.pl", 
 		"Referer=http://localhost:1080/cgi-bin/itinerary.pl", "ENDITEM",
-		"LAST");
+	"LAST");
+
 	if((atoi(lr_eval_string("{flight_id2_count}"))-atoi(lr_eval_string("{flight_id_count}"))+1)>=atoi(lr_eval_string("{flight_id_count}"))){
 		lr_error_message("Itinerary not deleted");
 		}
 	else
 		{ lr_output_message("Itenerary deleted succuess");
 		}
+	
 	}else if(atoi(lr_eval_string("{num}"))==3){ 
+		
+	web_reg_find("Fail=NotFound",
+		"Text/DIG=Flights List",
+		"LAST");
+	web_reg_save_param("flight_id2",
+	    "LB=name=\"flightID\" value=\"",
+	    "RB=\"",
+	    "Ord=ALL",
+	    "LAST");
+
 		
 		web_submit_form("web_submit_form",
 	     "ITEMDATA",
@@ -2829,7 +2853,7 @@ Action()
 		"URL=http://localhost:1080/cgi-bin/itinerary.pl", 
 		"Referer=http://localhost:1080/cgi-bin/itinerary.pl", "ENDITEM",
 		"LAST");
-		
+				
 	if((atoi(lr_eval_string("{flight_id2_count}"))-atoi(lr_eval_string("{flight_id_count}"))+1)>=atoi(lr_eval_string("{flight_id_count}"))){
 		lr_error_message("Itinerary not deleted");
 		}

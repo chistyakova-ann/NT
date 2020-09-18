@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_1_form_ticket_and_itin__*delimiter*__Gotosite__*delimiter*__login__*delimiter*__click_flights__*delimiter*__fill_find_flights__*delimiter*__fill_payment__*delimiter*__choose_flight__*delimiter*__click_itinerary__*delimiter*__logout"
+Order="UC_1_form_ticket_and_itin__*delimiter*__Gotosite__*delimiter*__login__*delimiter*__click_flights__*delimiter*__fill_find_flights__*delimiter*__choose_flight__*delimiter*__fill_payment__*delimiter*__click_itinerary__*delimiter*__logout"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -64,7 +64,7 @@ Gotosite=
 login=
 click_flights=
 fill_find_flights=
-fill_payment=
 choose_flight=
+fill_payment=
 click_itinerary=
 logout=

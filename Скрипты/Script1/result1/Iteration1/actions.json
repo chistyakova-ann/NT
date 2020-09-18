@@ -6,114 +6,114 @@
                 "stepId": "STEP1",
                 "stepName": "Url: WebTours",
                 "infFile": "t2.inf",
-                "time": 1600370557794
+                "time": 1600415572241
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t3.inf",
-                "time": 1600370558804
+                "time": 1600415573087
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Url: Search Flights Button",
                 "infFile": "t4.inf",
-                "time": 1600370559530
+                "time": 1600415573874
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Submit Data: reservations.pl",
                 "infFile": "t6.inf",
-                "time": 1600370560311
+                "time": 1600415574360
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Submit Data: reservations.pl_2",
                 "infFile": "t7.inf",
-                "time": 1600370561271
+                "time": 1600415574737
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Submit Data: reservations.pl_3",
                 "infFile": "t8.inf",
-                "time": 1600370562121
+                "time": 1600415575194
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: Itinerary Button",
                 "infFile": "t9.inf",
-                "time": 1600370563024
+                "time": 1600415575863
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Url: SignOff Button",
                 "infFile": "t10.inf",
-                "time": 1600370564015
+                "time": 1600415576362
             }
         ],
         "transactions": [
             {
                 "transactionName": "Gotosite",
-                "rawStartTime": 1600370551355,
-                "rawEndTime": 1600370557813,
+                "rawStartTime": 1600415569534,
+                "rawEndTime": 1600415572252,
                 "thinkTime": 0.0,
-                "wastedTime": 0.5242271423339844
+                "wastedTime": 0.5611081123352051
             },
             {
                 "transactionName": "login",
-                "rawStartTime": 1600370557814,
-                "rawEndTime": 1600370558805,
+                "rawStartTime": 1600415572254,
+                "rawEndTime": 1600415573089,
                 "thinkTime": 0.0,
-                "wastedTime": 0.15972161293029786
+                "wastedTime": 0.1807703971862793
             },
             {
                 "transactionName": "click_flights",
-                "rawStartTime": 1600370558808,
-                "rawEndTime": 1600370559536,
+                "rawStartTime": 1600415573091,
+                "rawEndTime": 1600415573879,
                 "thinkTime": 0.0,
-                "wastedTime": 0.1231846809387207
+                "wastedTime": 0.17668509483337403
             },
             {
                 "transactionName": "fill_find_flights",
-                "rawStartTime": 1600370559539,
-                "rawEndTime": 1600370560312,
+                "rawStartTime": 1600415573881,
+                "rawEndTime": 1600415574362,
                 "thinkTime": 0.0,
-                "wastedTime": 0.09075427055358887
+                "wastedTime": 0.10818004608154297
             },
             {
                 "transactionName": "choose_flight",
-                "rawStartTime": 1600370560316,
-                "rawEndTime": 1600370561272,
+                "rawStartTime": 1600415574366,
+                "rawEndTime": 1600415574739,
                 "thinkTime": 0.0,
-                "wastedTime": 0.05576181411743164
+                "wastedTime": 0.10009121894836426
             },
             {
                 "transactionName": "fill_payment",
-                "rawStartTime": 1600370561275,
-                "rawEndTime": 1600370562122,
+                "rawStartTime": 1600415574741,
+                "rawEndTime": 1600415575196,
                 "thinkTime": 0.0,
-                "wastedTime": 0.12825632095336915
+                "wastedTime": 0.15847063064575196
             },
             {
                 "transactionName": "click_itinerary",
-                "rawStartTime": 1600370562124,
-                "rawEndTime": 1600370563027,
+                "rawStartTime": 1600415575198,
+                "rawEndTime": 1600415575865,
                 "thinkTime": 0.0,
-                "wastedTime": 0.15431952476501466
+                "wastedTime": 0.15459585189819337
             },
             {
                 "transactionName": "logout",
-                "rawStartTime": 1600370563029,
-                "rawEndTime": 1600370564016,
+                "rawStartTime": 1600415575868,
+                "rawEndTime": 1600415576363,
                 "thinkTime": 0.0,
-                "wastedTime": 0.09583449363708496
+                "wastedTime": 0.12135195732116699
             },
             {
                 "transactionName": "UC_1_form_ticket_and_itin",
-                "rawStartTime": 1600370551354,
-                "rawEndTime": 1600370564019,
+                "rawStartTime": 1600415569533,
+                "rawEndTime": 1600415576365,
                 "thinkTime": 0.0,
-                "wastedTime": 1.3320598602294922
+                "wastedTime": 1.561253309249878
             }
         ]
     }

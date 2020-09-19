@@ -3,7 +3,7 @@
 -D_IDA_XL
 -DWINNT
 -IC:\Users\Администратор\Music\Desktop\NT\Скрипты\Scripts3
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-IC:\Program Files (x86)\HPE\LoadRunner\include
 -ec:\users\администратор\music\desktop\nt\скрипты\scripts3\\logfile.log
 c:\users\администратор\music\desktop\nt\скрипты\scripts3\\combined_Scripts3.c
 c:\users\администратор\music\desktop\nt\скрипты\scripts3\\pre_cci.c

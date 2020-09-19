@@ -1,3 +1,0 @@
-"advanceDiscount=0&depart=San+Francisco&departDate=09%2F18%2F2020&arrive=Los+Angeles&returnDate"
-"=09%2F25%2F2020&numPassengers=3&seatPref=None&seatType=Coach&findFlights.x=22&findFlights.y=6&"
-".cgifields=seatType&.cgifields=seatPref"

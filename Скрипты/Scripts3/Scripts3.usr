@@ -7,13 +7,13 @@ NewFunctionHeader=1
 RunType=cci
 ActionLogicExt=action_logic
 LastActiveAction=Action
-MajorVersion=2020
-MinorVersion=0
+MajorVersion=12
+MinorVersion=55
 ActiveTypes=QTWeb
 GenerateTypes=QTWeb
 AdditionalTypes=QTWeb
 DevelopTool=Vugen
-LastModifyVer=2020.0.0.0
+LastModifyVer=12.55.0.911
 DFERebrandFlag=Done
 ParamLeftBrace={
 ParamRightBrace=}
@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_3_form_ticket__*delimiter*__Gotosite__*delimiter*__login__*delimiter*__click_flights__*delimiter*__fill_find_flights__*delimiter*__choose_flight__*delimiter*__click_payment__*delimiter*__logout"
+Order="UC_3_form_ticket__*delimiter*__Gotosite__*delimiter*__fill_find_flights__*delimiter*__click_flights__*delimiter*__login__*delimiter*__choose_flight__*delimiter*__click_payment__*delimiter*__logout"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -61,9 +61,9 @@ ActiveRunName=result1
 [Transactions]
 UC_3_form_ticket=
 Gotosite=
-login=
-click_flights=
 fill_find_flights=
+click_flights=
+login=
 choose_flight=
 click_payment=
 logout=

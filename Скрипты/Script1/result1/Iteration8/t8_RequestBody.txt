@@ -1,4 +1,0 @@
-"firstName=jojo8&lastName=jojo8&address1=Kiev&address2=Ukraine&pass1=jojo8+jojo8&pass2=Chistyak"
-"ova+Anna8&expDate=09%2F21&creditCard=951378624016&oldCCOption=&numPassengers=2&seatType=Busine"
-"ss&seatPref=Aisle&outboundFlight=710%3B740%3B09%2F18%2F2020&advanceDiscount=0&returnFlight=&JS"
-"FormSubmit=off&buyFlights.x=63&buyFlights.y=10&.cgifields=saveCC"

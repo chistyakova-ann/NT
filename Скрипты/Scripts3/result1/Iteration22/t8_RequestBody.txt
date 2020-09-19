@@ -1,4 +1,0 @@
-"firstName=jojo2&lastName=jojo2&address1=Gagarina&address2=Moscow&pass1=jojo2+jojo2&creditCard="
-"987654321023&expDate=10%2F22&oldCCOption=&numPassengers=1&seatType=First&seatPref=Window&outbo"
-"undFlight=180%3B2287%3B09%2F18%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit=off&buyFlig"
-"hts.x=51&buyFlights.y=7&.cgifields=saveCC"

@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "Gotosite",
+        "rawStartTime": 1600509472720,
+        "rawEndTime": 1600509474937
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1600509474938,
+        "rawEndTime": 1600509480661
+    },
+    {
+        "transactionName": "click_flights",
+        "rawStartTime": 1600509480663,
+        "rawEndTime": 1600509481288
+    },
+    {
+        "transactionName": "fill_find_flights",
+        "rawStartTime": 1600509481290,
+        "rawEndTime": 1600509486566
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1600509486568,
+        "rawEndTime": 1600509486943
+    },
+    {
+        "transactionName": "UC_6_Find_Flight",
+        "rawStartTime": 1600509472719,
+        "rawEndTime": 1600509486945
+    }
+]

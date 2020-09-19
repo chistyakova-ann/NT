@@ -1,0 +1,47 @@
+[
+    {
+        "transactionName": "Gotosite",
+        "rawStartTime": 1600508738039,
+        "rawEndTime": 1600508741769
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1600508741772,
+        "rawEndTime": 1600508747743
+    },
+    {
+        "transactionName": "click_flights",
+        "rawStartTime": 1600508747746,
+        "rawEndTime": 1600508754005
+    },
+    {
+        "transactionName": "fill_find_flights",
+        "rawStartTime": 1600508754008,
+        "rawEndTime": 1600508759537
+    },
+    {
+        "transactionName": "choose_flight",
+        "rawStartTime": 1600508764540,
+        "rawEndTime": 1600508764897
+    },
+    {
+        "transactionName": "fill_payment",
+        "rawStartTime": 1600508764899,
+        "rawEndTime": 1600508770522
+    },
+    {
+        "transactionName": "click_itinerary",
+        "rawStartTime": 1600508770524,
+        "rawEndTime": 1600508776353
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1600508776355,
+        "rawEndTime": 1600508782002
+    },
+    {
+        "transactionName": "UC_1_form_ticket_and_itin",
+        "rawStartTime": 1600508738037,
+        "rawEndTime": 1600508782004
+    }
+]

@@ -1,3 +1,0 @@
-"advanceDiscount=0&depart=Seattle&departDate=09%2F18%2F2020&arrive=Frankfurt&returnDate=09%2F25"
-"%2F2020&numPassengers=1&seatPref=None&seatType=First&findFlights.x=22&findFlights.y=6&.cgifiel"
-"ds=seatType&.cgifields=seatPref"

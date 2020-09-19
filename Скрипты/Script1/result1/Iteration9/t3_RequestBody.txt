@@ -1,2 +1,0 @@
-"userSession=129640.794167679zzziDQipDftAAVApDQAV&username=jojo9&password=bean9&login.x=57&logi"
-"n.y=1&JSFormSubmit=off"

@@ -3,7 +3,7 @@ Action()
 	lr_start_transaction("UC_4_Find_and_Choose_Flight");
 	lr_start_transaction("Gotosite");
 
-	web_set_sockets_option("SSL_VERSION", "AUTO");
+//	web_set_sockets_option("SSL_VERSION", "AUTO");
 
 	web_add_auto_header("Sec-Fetch-Site", 
 		"none");
@@ -21,7 +21,7 @@ Action()
 		"1");
 
 /*Correlation comment - Do not change!  Original value='129601.215147833zzzzDzcpfAtVzzzHDQQQipVHfAcf' Name ='userSession' Type ='ResponseBased'*/
-	web_reg_save_param_attrib(
+/*	web_reg_save_param_attrib(
 		"ParamName=userSession",
 		"TagName=input",
 		"Extract=value",
@@ -29,8 +29,14 @@ Action()
 		"Type=hidden",
 		SEARCH_FILTERS,
 		"IgnoreRedirections=No",
-		"RequestUrl=*/nav.pl*",
+		"RequestUrl=/nav.pl*",
+		LAST);*/
+	web_reg_save_param("userSession",
+		"LB=name=\"userSession\" value=\"",
+		"RB=\"/>",
+		"NotFound=ERROR",
 		LAST);
+
 	web_reg_find("Fail=NotFound",
 		"Text/DIG=A Session ID has been created and loaded into a cookie called MSO",
 		LAST);

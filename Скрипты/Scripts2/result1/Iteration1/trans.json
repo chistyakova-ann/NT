@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "Gotosite",
+        "rawStartTime": 1600524322299,
+        "rawEndTime": 1600524326981
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1600524326983,
+        "rawEndTime": 1600524332650
+    },
+    {
+        "transactionName": "click_itenerary",
+        "rawStartTime": 1600524332653,
+        "rawEndTime": 1600524338173
+    },
+    {
+        "transactionName": "delete_ticket",
+        "rawStartTime": 1600524338176,
+        "rawEndTime": 1600524343798
+    },
+    {
+        "transactionName": "logout",
+        "rawStartTime": 1600524343801,
+        "rawEndTime": 1600524349307
+    },
+    {
+        "transactionName": "UC_2_delete_ticket",
+        "rawStartTime": 1600524322298,
+        "rawEndTime": 1600524349310
+    }
+]

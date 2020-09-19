@@ -34,6 +34,7 @@
     <FileEntry Name="login.dat" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvS6h.973.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -43,6 +44,7 @@
     <FileEntry Name="Scripts5.c.pickle" Filter="1" />
     <FileEntry Name="Scripts5.ci" Filter="1" />
     <FileEntry Name="Scripts5.prm.bak" Filter="1" />
+    <FileEntry Name="Scripts5.sdf" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />

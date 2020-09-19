@@ -1,7 +1,7 @@
-POST /cgi-bin/reservations.pl HTTP/1.1
-Content-Type: application/x-www-form-urlencoded
-Referer: http://localhost:1080/cgi-bin/reservations.pl
-Origin: http://localhost:1080
+GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Dest: frame
 Sec-Fetch-Mode: navigate
@@ -11,6 +11,5 @@ Accept-Language: ru
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1600422893; MTUserInfo=firstName&jojo1&address2&&username&jojo1&hash&81&lastName&jojo1%0A&address1&&creditCard&&expDate&%0A
-Content-Length: 362
+Cookie: MSO=SID&1600509132; MTUserInfo=firstName&jojo1&username&jojo1&address2&&hash&81&address1&&lastName&jojo1%0A
 

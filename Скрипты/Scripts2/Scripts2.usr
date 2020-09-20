@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_2_delete_ticket__*delimiter*__Gotosite__*delimiter*__login__*delimiter*__click_itenerary__*delimiter*__delete_ticket__*delimiter*__logout"
+Order="UC_2_delete_ticket__*delimiter*__Gotosite__*delimiter*__login__*delimiter*__click_itinerary__*delimiter*__delete_ticket__*delimiter*__logout"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -62,6 +62,6 @@ ActiveRunName=result1
 UC_2_delete_ticket=
 Gotosite=
 login=
-click_itenerary=
+click_itinerary=
 delete_ticket=
 logout=

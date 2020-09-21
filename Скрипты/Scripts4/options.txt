@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Администратор\Music\Desktop\NT\Скрипты\Scripts4
--IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\users\администратор\music\desktop\nt\скрипты\scripts4\\logfile.log
-c:\users\администратор\music\desktop\nt\скрипты\scripts4\\combined_Scripts4.c
-c:\users\администратор\music\desktop\nt\скрипты\scripts4\\pre_cci.c

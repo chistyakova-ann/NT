@@ -1,0 +1,28 @@
+Virtual User Script started at: 19.09.2020 12:51:46
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 7; build 911 (июл 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\Администратор\Music\Desktop\NT\Скрипты\Scripts3\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "UC_3_form_ticket" started.
+Action.c(6): Notify: Transaction "Gotosite" started.
+Action.c(8): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(8): Error -27755: Unknown SSL version AUTO: use one of '2', '3', '2&3', 'TLS', 'TLS1.1', 'TLS1.2'  	[MsgId: MERR-27755]
+Action.c(8): web_set_sockets_option highest severity level was "ERROR"  	[MsgId: MMSG-26391]
+Action.c(8): Notify: Transaction "Gotosite" ended with a "Fail" status (Duration: 0,0691).
+Action.c(8): Notify: Transaction "Gotosite" has 1 error message(s).
+Action.c(8): Notify: The 1st error message associated with transaction "Gotosite" is "Error -27755: Unknown SSL version AUTO: use one of '2', '3', '2&3', 'TLS', 'TLS1.1', 'TLS1.2'"
+Action.c(8): Notify: Transaction "UC_3_form_ticket" ended with a "Fail" status (Duration: 0.0706).
+Action.c(8): Notify: Transaction "UC_3_form_ticket" has 1 error message(s).
+Action.c(8): Notify: The 1st error message associated with transaction "UC_3_form_ticket" is "Error -27755: Unknown SSL version AUTO: use one of '2', '3', '2&3', 'TLS', 'TLS1.1', 'TLS1.2'"
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Администратор\Music\Desktop\NT\Скрипты\Scripts2
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\администратор\music\desktop\nt\скрипты\scripts2\\logfile.log
+c:\users\администратор\music\desktop\nt\скрипты\scripts2\\combined_Scripts2.c
+c:\users\администратор\music\desktop\nt\скрипты\scripts2\\pre_cci.c

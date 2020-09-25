@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Администратор\Music\Desktop\NT\Скрипты\Scripts3
+-IC:\Users\Администратор\Music\Desktop\NT\LoadRunner\03_buy_ticket
 -IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\users\администратор\music\desktop\nt\скрипты\scripts3\\logfile.log
-c:\users\администратор\music\desktop\nt\скрипты\scripts3\\combined_Scripts3.c
-c:\users\администратор\music\desktop\nt\скрипты\scripts3\\pre_cci.c
+-ec:\users\администратор\music\desktop\nt\loadrunner\03_buy_ticket\\logfile.log
+c:\users\администратор\music\desktop\nt\loadrunner\03_buy_ticket\\combined_03_buy_ticket.c
+c:\users\администратор\music\desktop\nt\loadrunner\03_buy_ticket\\pre_cci.c

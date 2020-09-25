@@ -1,0 +1,30 @@
+Action.c(145):     <tr><td>&nbsp;</td>\n
+Action.c(145):     <td><small>&nbsp;Password</small></td>\n
+Action.c(145):     <tr><td>&nbsp;</td>\n
+Action.c(145):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(145):     <tr><td>&nbsp;</td>\n
+Action.c(145):     <td>&nbsp;</td></tr>\n
+Action.c(145):     <tr><td>&nbsp;</td>\n
+Action.c(145):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+Action.c(145):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+Action.c(145):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+Action.c(145):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+Action.c(145):     </form>\n
+Action.c(145):     \n
+Action.c(145):     </body>\n
+Action.c(145):     </html>\n
+Action.c(145): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(145): t=4103196ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=674)
+Action.c(145):     0\r\n
+Action.c(145):     \r\n
+Action.c(145): Registered web_reg_find successful for "Text=A Session ID has been created and loaded into a cookie called MSO" (count=1)  	[MsgId: MMSG-26364]
+Action.c(145): web_url("SignOff Button") was successful, 2167 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(155): Notify: Transaction "logout" ended with a "Pass" status (Duration: 5,2468 Think Time: 5,0009 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(157): Notify: Transaction "05_view_itinerary" ended with a "Pass" status (Duration: 16,2954 Think Time: 15,0131 Wasted Time: 0,0008).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 7 (thread 5864), ended OK."	[MsgId: MMSG-10695]

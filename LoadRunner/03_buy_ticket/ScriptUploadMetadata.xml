@@ -13,7 +13,18 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="03_buy_ticket.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_03_buy_ticket.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="03_buy_ticket.c.pickle" Filter="1" />
+    <FileEntry Name="03_buy_ticket.ci" Filter="1" />
+    <FileEntry Name="03_buy_ticket.prm.bak" Filter="1" />
     <FileEntry Name="03_buy_ticket.sdf" Filter="1" />
+    <FileEntry Name="160005914440.idx" Filter="1" />
+    <FileEntry Name="187224274440.idx" Filter="1" />
+    <FileEntry Name="39794101440.idx" Filter="1" />
+    <FileEntry Name="56877337440.idx" Filter="1" />
+    <FileEntry Name="57470521440.idx" Filter="1" />
+    <FileEntry Name="96967688440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -22,14 +33,32 @@
     <FileEntry Name="login.dat" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv35O.859.log" Filter="1" />
+    <FileEntry Name="mdrv437.95.log" Filter="1" />
+    <FileEntry Name="mdrv8ra.447.log" Filter="1" />
+    <FileEntry Name="mdrvcsy.343.log" Filter="1" />
+    <FileEntry Name="mdrveqv.415.log" Filter="1" />
     <FileEntry Name="mdrvf9K.171.log" Filter="1" />
     <FileEntry Name="mdrvFEm.965.log" Filter="1" />
     <FileEntry Name="mdrvFIZ.825.log" Filter="1" />
+    <FileEntry Name="mdrvFji.873.log" Filter="1" />
     <FileEntry Name="mdrvh4j.493.log" Filter="1" />
     <FileEntry Name="mdrvHvj.427.log" Filter="1" />
     <FileEntry Name="mdrvitS.975.log" Filter="1" />
+    <FileEntry Name="mdrvJ9V.509.log" Filter="1" />
+    <FileEntry Name="mdrvo2r.255.log" Filter="1" />
+    <FileEntry Name="mdrvOsT.383.log" Filter="1" />
     <FileEntry Name="mdrvQ2s.369.log" Filter="1" />
+    <FileEntry Name="mdrvQXf.35.log" Filter="1" />
+    <FileEntry Name="mdrvSfh.969.log" Filter="1" />
+    <FileEntry Name="mdrvspX.415.log" Filter="1" />
+    <FileEntry Name="mdrvTeo.823.log" Filter="1" />
+    <FileEntry Name="mdrvUlZ.243.log" Filter="1" />
+    <FileEntry Name="mdrvv1L.629.log" Filter="1" />
+    <FileEntry Name="mdrvvdg.987.log" Filter="1" />
+    <FileEntry Name="mdrvvWX.487.log" Filter="1" />
     <FileEntry Name="mdrvzEL.603.log" Filter="1" />
+    <FileEntry Name="mdrvzJI.503.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

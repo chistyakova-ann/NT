@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Администратор\Music\Desktop\NT\Скрипты\Scripts2
+-IC:\Users\Администратор\Music\Desktop\NT\LoadRunner\02_delete_ticket
 -IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\users\администратор\music\desktop\nt\скрипты\scripts2\\logfile.log
-c:\users\администратор\music\desktop\nt\скрипты\scripts2\\combined_Scripts2.c
-c:\users\администратор\music\desktop\nt\скрипты\scripts2\\pre_cci.c
+-ec:\users\администратор\music\desktop\nt\loadrunner\02_delete_ticket\\logfile.log
+c:\users\администратор\music\desktop\nt\loadrunner\02_delete_ticket\\combined_02_delete_ticket.c
+c:\users\администратор\music\desktop\nt\loadrunner\02_delete_ticket\\pre_cci.c

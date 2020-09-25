@@ -1,0 +1,44 @@
+[
+    {
+        "stepId": "STEP204",
+        "stepName": "Url: WebTours",
+        "infFile": "t1.inf",
+        "time": 1601042914679
+    },
+    {
+        "stepId": "STEP205",
+        "stepName": "Submit Data: login.pl",
+        "infFile": "t2.inf",
+        "time": 1601042915891
+    },
+    {
+        "stepId": "STEP206",
+        "stepName": "Url: Search Flights Button",
+        "infFile": "t3.inf",
+        "time": 1601042916731
+    },
+    {
+        "stepId": "STEP207",
+        "stepName": "Submit Data: reservations.pl",
+        "infFile": "t5.inf",
+        "time": 1601042917594
+    },
+    {
+        "stepId": "STEP208",
+        "stepName": "Submit Data: reservations.pl_2",
+        "infFile": "t6.inf",
+        "time": 1601042918329
+    },
+    {
+        "stepId": "STEP209",
+        "stepName": "Submit Data: reservations.pl_3",
+        "infFile": "t7.inf",
+        "time": 1601042919272
+    },
+    {
+        "stepId": "STEP210",
+        "stepName": "Url: SignOff Button",
+        "infFile": "t8.inf",
+        "time": 1601042920126
+    }
+]

@@ -1,0 +1,9 @@
+package ru.appline;
+
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet(urlPatterns="/add")
+public class Servletadd {
+
+}

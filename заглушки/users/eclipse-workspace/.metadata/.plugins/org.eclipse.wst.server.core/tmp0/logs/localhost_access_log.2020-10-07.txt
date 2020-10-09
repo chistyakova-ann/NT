@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:10:31:01 +0300] "GET /myServlet/update.jsp HTTP/1.1" 200 731
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:10:32:55 +0300] "PUT /myServlet/put HTTP/1.1" 500 2580
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:10:33:17 +0300] "PUT /myServlet/put HTTP/1.1" 200 64
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:10:33:32 +0300] "POST /myServlet/put HTTP/1.1" 405 752
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:10:34:08 +0300] "GET /myServlet/update.jsp HTTP/1.1" 200 731
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:10:34:31 +0300] "DELETE /myServlet/delete HTTP/1.1" 405 754
+127.0.0.1 - - [07/Oct/2020:10:35:59 +0300] "GET /myServlet/delete.jsp HTTP/1.1" 200 471
+127.0.0.1 - - [07/Oct/2020:10:36:13 +0300] "DELETE /myServlet/delete HTTP/1.1" 200 159

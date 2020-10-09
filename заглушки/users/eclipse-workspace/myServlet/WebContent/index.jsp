@@ -1,0 +1,30 @@
+<%@ page import="logic.Model" %>
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Home page for working with users</h1>
+Enter the user id (0-to display the entire list of users)
+<br/>
+Available:<%
+Model model=Model.getInstance();
+out.print(model.getFromList().size());
+%>
+<form method="get" action="get">
+<label>ID:
+<input type="text" name="id"><br/>
+</label>
+<button type="submit">Search</button>
+</form>
+<a href="addUser.html">Create new user</a>
+<a href="delete.jsp">Delete user</a>
+<a href="update.jsp">Update user</a>
+
+</body>
+</html>

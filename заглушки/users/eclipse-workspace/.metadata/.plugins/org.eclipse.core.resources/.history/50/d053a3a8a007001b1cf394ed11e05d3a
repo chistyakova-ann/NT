@@ -1,0 +1,26 @@
+<%@ page import="logic.Model" %>
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Home page for deleting users</h1>
+<br/>
+Available:<%
+Model model=Model.getInstance();
+out.print("<h3>Avaliable users:</h3><br/>"+
+"Id User: "+"<ul>");
+	for (Map.Entry<Integer, User> entry : model.getFromList().entrySet()) {
+		pw.print("<li>"+ entry.getKey()+"</li>"+"<ul>"+
+	"<li>Name: "+entry.getValue().getName()+"</li>"+
+	"<li>Surname: "+entry.getValue().getSurname()+"</li>"+
+	"<li>Salary: "+entry.getValue().getSalary()+"</li>"+
+			"</ul>");
+%>
+</body>
+</html>

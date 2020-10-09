@@ -1,0 +1,9 @@
+package logic;
+
+import java.io.Serializable;
+import java.util.Map;
+
+public class Model implements Serializable{
+	private static final Model instanse= new 
+private final Map<Integer,User> model;
+}

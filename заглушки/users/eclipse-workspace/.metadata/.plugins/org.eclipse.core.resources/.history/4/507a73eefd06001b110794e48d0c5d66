@@ -1,0 +1,18 @@
+package logic;
+
+import java.io.Serializable;
+import java.util.HashMap;
+import java.util.Map;
+
+public class Model2 implements Serializable{
+	private static final Model2 instance= new Model2();
+	private final Map<Integer,User> model;
+	public static Model2 getInstance() {
+		return instance;
+	}
+	private Model2() {
+		model=new HashMap<>();
+	
+	model.put(1,new User(name:"Anna",surname:"Chistyakova",salary:5555));
+	}
+}
